@@ -1,0 +1,5 @@
+
+  # Build species-level extension projects
+
+  # Feline lentiviruses
+  run file glue/build/extension/feline/buildLentiExtensionFeline.glue
