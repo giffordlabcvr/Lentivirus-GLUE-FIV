@@ -1,4 +1,4 @@
  
   # Import GenBank sequences 
-  import source /Users/rob/Sources/lentivirus/feline/ncbi-nuccore-feline
-  import source /Users/rob/Sources/lentivirus/feline/ncbi-refseqs-feline
+  import source sources/virus/extension/feline/ncbi-nuccore-feline
+  import source sources/virus/extension/feline/ncbi-refseqs-feline
