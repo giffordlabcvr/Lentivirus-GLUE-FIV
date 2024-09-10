@@ -4,7 +4,7 @@
 
   # Link extension set sequences to isolate data
   run script glue/build/extension/feline/linkIsolateExtensionRefseqsFeline.js
-  run script glue/build/extension/feline/linkIsolateCuratedSeqsFeline.js
+  run script glue/build/extension/feline/linkIsolateNuccoreSeqsFeline.js
   
   # Extract data from the XML files
   module genbankXmlPopulatorFeline populate -w "source.name like '%-feline'"
