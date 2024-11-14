@@ -1,6 +1,6 @@
 ## Feline Lentivirus Extension to Lentivirus-GLUE
 
-<img src="md/puma-droplet.jpg" align="right" alt="" width="280" />
+<img src="md/puma-droplet.jpg" align="right" alt="" width="200" />
 
 Welcome to the GitHub repository for **Lentivirus-GLUE-FIV**: an extension to **[Lentivirus-GLUE](https://github.com/giffordlabcvr/Lentivirus-GLUE)**.
 
