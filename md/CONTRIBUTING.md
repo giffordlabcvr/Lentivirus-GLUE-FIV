@@ -1,6 +1,6 @@
-# Lentivirus-GLUE-Feline Contributor Guidelines
+# Lentivirus-GLUE-FIV Contributor Guidelines
 
-Welcome to Lentivirus-GLUE-Feline! We appreciate your interest in contributing to our project. By contributing, you help make Lentivirus-GLUE-Feline a better resource for the community.
+Welcome to Lentivirus-GLUE-FIV! We appreciate your interest in contributing to our project. By contributing, you help make Lentivirus-GLUE-FIV a better resource for the community.
 
 ## Table of Contents
 
@@ -48,6 +48,6 @@ Please follow the existing code style within the GLUE project to maintain consis
 
 ## License
 
-By contributing to Lentivirus-GLUE-Feline, you agree that your contributions will be licensed under the [GNU Affero General Public License v. 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
+By contributing to Lentivirus-GLUE-FIV, you agree that your contributions will be licensed under the [GNU Affero General Public License v. 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
-Thank you for contributing to Lentivirus-GLUE-Feline!
+Thank you for contributing to Lentivirus-GLUE-FIV!
