@@ -4,9 +4,11 @@
 
 Welcome to the GitHub repository for **Lentivirus-GLUE-FIV**: an extension to **[Lentivirus-GLUE](https://github.com/giffordlabcvr/Lentivirus-GLUE)**.
 
+Lentivirus-GLUE is a sequence-oriented resource for comparative genomic analysis of lentiviruses (family Retroviridae, genus Lentivirus), developed using the GLUE software framework.
+
 Feline immunodeficiency virus (FIV) is a lentivirus that infects domestic and wild cats, causing an immune deficiency syndrome similar to human HIV/AIDS. First identified in the 1980s, FIV primarily spreads through bite wounds and is found worldwide, particularly in feral cat populations. The virus targets immune cells, leading to a gradual decline in immune function over time. While infected cats may live many years without severe symptoms, they become more susceptible to secondary infections. Comparative studies of FIV and other lentiviruses, including HIV, provide insights into viral evolution, immune evasion, and potential pathways for therapeutic intervention.
 
-This extension incorporates all published sequence data from feline lentiviruses, linked to associated metadata, including information that is sequence-associated (length, publication date); taxonomic (viral genotype, subtype); and isolate-associated (isolation host species, date and location of sampling, isolation source).
+This extension incorporates all FIV sequence data published in GenBank. Sequences are linked to standardised metadata, including information that is sequence-associated (length, publication date); taxonomic (viral genotype, subtype); and isolate-associated (isolation host species, date and location of sampling, isolation source).
 
 
 * * * * * 
