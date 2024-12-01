@@ -13,7 +13,7 @@
   create module -f modules/build/extension/feline/sideDataImporterFeline.xml felineSideDataImporter
   module felineSideDataImporter
   
-	populate -f tabular/extension/feline/feline-refseqs.tsv
+	populate -f tabular/extension/feline/fiv-refseqs.tsv
 	
 	exit
 

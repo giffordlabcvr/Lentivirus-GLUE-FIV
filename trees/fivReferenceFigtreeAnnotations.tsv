@@ -1,0 +1,113 @@
+taxon	sequenceID	combined	pubmed_id	source	name	isolate	country	subtype	genotype	collection_year
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/AF474246	AF474246	AF474246/Canada/Main/Canada/-/BM3070	-	ncbi-refseqs-feline	FIV	BM3070	Canada	Main	Canada	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/AX139034	AX139034	AX139034/South America/-/-/-/-	-	ncbi-refseqs-feline	FIV	-	-	-	South America	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/AY600517	AY600517	AY600517/Canada/-/-/-/FIV-C36	15308694	ncbi-refseqs-feline	FIV	FIV-C36	-	-	Canada	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/AY713445	AY713445	AY713445/Asia/-/-/-/-	-	ncbi-refseqs-feline	FIV	-	-	-	Asia	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/DD029017	DD029017	DD029017/South America/-/-/-/-	-	ncbi-refseqs-feline	FIV	-	-	-	South America	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/DL231479	DL231479	DL231479/-/-/-/-/-	-	ncbi-refseqs-feline	FIV	-	-	-	-	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/DQ192583	DQ192583	DQ192583/B/-/Canada/-/PLV-1695	16501082	ncbi-refseqs-feline	FIV	PLV-1695	Canada	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/E43300	E43300	E43300/South America/-/-/-/-	-	ncbi-refseqs-feline	FIV	-	-	-	South America	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455603	EF455603	EF455603/B/-/-/-/Gc34	17445856	ncbi-refseqs-feline	FIV	Gc34	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455604	EF455604	EF455604/B/-/-/-/Mc350	17445856	ncbi-refseqs-feline	FIV	Mc350	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455605	EF455605	EF455605/B/-/-/-/Mc100	17445856	ncbi-refseqs-feline	FIV	Mc100	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455606	EF455606	EF455606/B/-/-/-/Mc121	17445856	ncbi-refseqs-feline	FIV	Mc121	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455607	EF455607	EF455607/B/-/-/-/YM29	17445856	ncbi-refseqs-feline	FIV	YM29	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455608	EF455608	EF455608/B/-/-/-/YF16	17445856	ncbi-refseqs-feline	FIV	YF16	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455609	EF455609	EF455609/B/-/-/-/JM01	17445856	ncbi-refseqs-feline	FIV	JM01	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455610	EF455610	EF455610/B/-/-/-/JF6	17445856	ncbi-refseqs-feline	FIV	JF6	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455611	EF455611	EF455611/B/-/-/-/YM137	17445856	ncbi-refseqs-feline	FIV	YM137	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455612	EF455612	EF455612/B/-/-/-/YF125	17445856	ncbi-refseqs-feline	FIV	YF125	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455613	EF455613	EF455613/B/NULL/-/-/SR631	17445856	ncbi-refseqs-feline	FIV	SR631	-	NULL	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455614	EF455614	EF455614/B/-/-/-/SR631B	17445856	ncbi-refseqs-feline	FIV	SR631B	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EF455615	EF455615	EF455615/B/-/-/-/CoLV	17445856	ncbi-refseqs-feline	FIV	CoLV	-	-	B	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EU117991	EU117991	EU117991/Africa/-/USA/-/27B	18251995	ncbi-refseqs-feline	FIV	27B	USA	-	Africa	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/EU117992	EU117992	EU117992/Africa/-/Botswana/-/1027	18251995	ncbi-refseqs-feline	FIV	1027	Botswana	-	Africa	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906143	KF906143	KF906143/A/-/USA/1996/Lru1	24741092	ncbi-refseqs-feline	FIV	Lru1	USA	-	A	1996
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906144	KF906144	KF906144/A/-/USA/2001/Lru2	24741092	ncbi-refseqs-feline	FIV	Lru2	USA	-	A	2001
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906145	KF906145	KF906145/A/-/USA/2001/Lru3	24741092	ncbi-refseqs-feline	FIV	Lru3	USA	-	A	2001
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906146	KF906146	KF906146/A/-/USA/2002/Lru4	24741092	ncbi-refseqs-feline	FIV	Lru4	USA	-	A	2002
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906147	KF906147	KF906147/A/-/USA/2002/Lru5	24741092	ncbi-refseqs-feline	FIV	Lru5	USA	-	A	2002
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906148	KF906148	KF906148/A/-/USA/2003/Lru6	24741092	ncbi-refseqs-feline	FIV	Lru6	USA	-	A	2003
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906149	KF906149	KF906149/A/-/USA/2005/Lru7	24741092	ncbi-refseqs-feline	FIV	Lru7	USA	-	A	2005
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906150	KF906150	KF906150/A/-/USA/2006/Lru8	24741092	ncbi-refseqs-feline	FIV	Lru8	USA	-	A	2006
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906151	KF906151	KF906151/A/-/USA/2007/Lru9	24741092	ncbi-refseqs-feline	FIV	Lru9	USA	-	A	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906152	KF906152	KF906152/A/-/USA/2006/Lru10	24741092	ncbi-refseqs-feline	FIV	Lru10	USA	-	A	2006
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906153	KF906153	KF906153/A/-/USA/2009/Lru11	24741092	ncbi-refseqs-feline	FIV	Lru11	USA	-	A	2009
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906154	KF906154	KF906154/A/-/USA/2009/Lru12	24741092	ncbi-refseqs-feline	FIV	Lru12	USA	-	A	2009
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906155	KF906155	KF906155/A/-/USA/2009/Lru13	24741092	ncbi-refseqs-feline	FIV	Lru13	USA	-	A	2009
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906156	KF906156	KF906156/A/-/USA/1984/Lru14	24741092	ncbi-refseqs-feline	FIV	Lru14	USA	-	A	1984
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906157	KF906157	KF906157/A/-/USA/2007/Lru15	24741092	ncbi-refseqs-feline	FIV	Lru15	USA	-	A	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906158	KF906158	KF906158/A/-/USA/2010/Lru16	24741092	ncbi-refseqs-feline	FIV	Lru16	USA	-	A	2010
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906159	KF906159	KF906159/A/-/USA/2010/Lru17	24741092	ncbi-refseqs-feline	FIV	Lru17	USA	-	A	2010
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906160	KF906160	KF906160/A/-/USA/2010/Lru18	24741092	ncbi-refseqs-feline	FIV	Lru18	USA	-	A	2010
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906161	KF906161	KF906161/A/-/USA/2010/Lru19	24741092	ncbi-refseqs-feline	FIV	Lru19	USA	-	A	2010
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906162	KF906162	KF906162/A/-/USA/2010/Lru20	24741092	ncbi-refseqs-feline	FIV	Lru20	USA	-	A	2010
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906163	KF906163	KF906163/A/-/USA/2004/Pco1	24741092	ncbi-refseqs-feline	FIV	Pco1	USA	-	A	2004
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906167	KF906167	KF906167/A/-/USA/2004/Pco5	24741092	ncbi-refseqs-feline	FIV	Pco5	USA	-	A	2004
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906168	KF906168	KF906168/A/-/USA/2003/Pco6	24741092	ncbi-refseqs-feline	FIV	Pco6	USA	-	A	2003
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906169	KF906169	KF906169/A/-/USA/2007/Pco7	24741092	ncbi-refseqs-feline	FIV	Pco7	USA	-	A	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906170	KF906170	KF906170/A/-/USA/2002/Pco8	24741092	ncbi-refseqs-feline	FIV	Pco8	USA	-	A	2002
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906175	KF906175	KF906175/B/-/USA/2003/Pco17	24741092	ncbi-refseqs-feline	FIV	Pco17	USA	-	B	2003
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906176	KF906176	KF906176/B/-/USA/2002/Pco18	24741092	ncbi-refseqs-feline	FIV	Pco18	USA	-	B	2002
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906177	KF906177	KF906177/B/-/USA/2003/Pco19	24741092	ncbi-refseqs-feline	FIV	Pco19	USA	-	B	2003
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906178	KF906178	KF906178/B/-/USA/2003/Pco20	24741092	ncbi-refseqs-feline	FIV	Pco20	USA	-	B	2003
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906179	KF906179	KF906179/B/-/USA/2003/Pco21	24741092	ncbi-refseqs-feline	FIV	Pco21	USA	-	B	2003
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906180	KF906180	KF906180/B/-/USA/2005/Pco13	24741092	ncbi-refseqs-feline	FIV	Pco13	USA	-	B	2005
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906181	KF906181	KF906181/B/-/USA/2006/Pco4	24741092	ncbi-refseqs-feline	FIV	Pco4	USA	-	B	2006
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906182	KF906182	KF906182/B/-/USA/2002/Pco14	24741092	ncbi-refseqs-feline	FIV	Pco14	USA	-	B	2002
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906183	KF906183	KF906183/B/-/USA/2002/Pco15	24741092	ncbi-refseqs-feline	FIV	Pco15	USA	-	B	2002
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906184	KF906184	KF906184/B/-/USA/2009/Pco28	24741092	ncbi-refseqs-feline	FIV	Pco28	USA	-	B	2009
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906185	KF906185	KF906185/B/-/USA/2002/Pco2	24741092	ncbi-refseqs-feline	FIV	Pco2	USA	-	B	2002
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906186	KF906186	KF906186/B/-/USA/2009/Pco29	24741092	ncbi-refseqs-feline	FIV	Pco29	USA	-	B	2009
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906187	KF906187	KF906187/B/-/USA/2009/Pco30	24741092	ncbi-refseqs-feline	FIV	Pco30	USA	-	B	2009
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906188	KF906188	KF906188/B/-/USA/2009/Pco22	24741092	ncbi-refseqs-feline	FIV	Pco22	USA	-	B	2009
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906189	KF906189	KF906189/B/-/USA/2010/Pco23	24741092	ncbi-refseqs-feline	FIV	Pco23	USA	-	B	2010
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906190	KF906190	KF906190/B/-/USA/2010/Pco24	24741092	ncbi-refseqs-feline	FIV	Pco24	USA	-	B	2010
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906191	KF906191	KF906191/B/-/USA/2010/Pco25	24741092	ncbi-refseqs-feline	FIV	Pco25	USA	-	B	2010
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906192	KF906192	KF906192/B/-/USA/2010/Pco26	24741092	ncbi-refseqs-feline	FIV	Pco26	USA	-	B	2010
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906193	KF906193	KF906193/B/-/USA/2011/Pco16	24741092	ncbi-refseqs-feline	FIV	Pco16	USA	-	B	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/KF906194	KF906194	KF906194/B/-/USA/2008/Pco27	24741092	ncbi-refseqs-feline	FIV	Pco27	USA	-	B	2008
+alignment/AL_TREE_Feline/member/ncbi-refseqs-core/M25381	M25381	M25381/Global Fca/Main/United States/-/NK	2928341	ncbi-refseqs-core	FIV	NK	United States	Main	Global Fca	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/M36968	M36968	M36968/Global Fca/-/-/-/San Diego	1697907	ncbi-refseqs-feline	FIV	San Diego	-	-	Global Fca	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/M59418	M59418	M59418/South America/-/-/-/-	1649349	ncbi-refseqs-feline	FIV	-	-	-	South America	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MF352016	MF352016	MF352016/Global Fca/-/China/-/CHN17	-	ncbi-refseqs-feline	FIV	CHN17	China	-	Global Fca	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MF370550	MF370550	MF370550/South America/-/Brazil/2013/cat/Brazil/Pequeno_2013	28963205	ncbi-refseqs-feline	FIV	cat/Brazil/Pequeno_2013	Brazil	-	South America	2013
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MN630242	MN630242	MN630242/Global Fca/-/Colombia/2018/GF6	-	ncbi-refseqs-feline	FIV	GF6	Colombia	-	Global Fca	2018
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142019	MW142019	MW142019/South America/-/Brazil/2015/1D	-	ncbi-refseqs-feline	FIV	1D	Brazil	-	South America	2015
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142020	MW142020	MW142020/South America/-/Brazil/2012/2B	-	ncbi-refseqs-feline	FIV	2B	Brazil	-	South America	2012
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142021	MW142021	MW142021/South America/-/Brazil/2007/3A	-	ncbi-refseqs-feline	FIV	3A	Brazil	-	South America	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142022	MW142022	MW142022/South America/-/Brazil/2011/3B	-	ncbi-refseqs-feline	FIV	3B	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142023	MW142023	MW142023/South America/-/Brazil/2007/4A	-	ncbi-refseqs-feline	FIV	4A	Brazil	-	South America	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142024	MW142024	MW142024/South America/-/Brazil/2009/4B	-	ncbi-refseqs-feline	FIV	4B	Brazil	-	South America	2009
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142025	MW142025	MW142025/South America/-/Brazil/2011/5	-	ncbi-refseqs-feline	FIV	5	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142026	MW142026	MW142026/South America/-/Brazil/2011/6	-	ncbi-refseqs-feline	FIV	6	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142027	MW142027	MW142027/South America/-/Brazil/2007/9	-	ncbi-refseqs-feline	FIV	9	Brazil	-	South America	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142028	MW142028	MW142028/South America/-/Brazil/2007/11	-	ncbi-refseqs-feline	FIV	11	Brazil	-	South America	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142029	MW142029	MW142029/South America/-/Brazil/2007/12	-	ncbi-refseqs-feline	FIV	12	Brazil	-	South America	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142030	MW142030	MW142030/South America/-/Brazil/2007/13	-	ncbi-refseqs-feline	FIV	13	Brazil	-	South America	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142031	MW142031	MW142031/South America/-/Brazil/2007/14	-	ncbi-refseqs-feline	FIV	14	Brazil	-	South America	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142032	MW142032	MW142032/South America/-/Brazil/2007/16	-	ncbi-refseqs-feline	FIV	16	Brazil	-	South America	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142033	MW142033	MW142033/South America/-/Brazil/2007/17	-	ncbi-refseqs-feline	FIV	17	Brazil	-	South America	2007
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142034	MW142034	MW142034/South America/-/Brazil/2011/18	-	ncbi-refseqs-feline	FIV	18	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142035	MW142035	MW142035/South America/-/Brazil/2011/19	-	ncbi-refseqs-feline	FIV	19	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142036	MW142036	MW142036/South America/-/Brazil/2011/20	-	ncbi-refseqs-feline	FIV	20	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142037	MW142037	MW142037/South America/-/Brazil/2011/21	-	ncbi-refseqs-feline	FIV	21	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142038	MW142038	MW142038/South America/-/Brazil/2011/22	-	ncbi-refseqs-feline	FIV	22	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142039	MW142039	MW142039/South America/-/Brazil/2011/24	-	ncbi-refseqs-feline	FIV	24	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142040	MW142040	MW142040/South America/-/Brazil/2011/25	-	ncbi-refseqs-feline	FIV	25	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142041	MW142041	MW142041/South America/-/Brazil/2011/27	-	ncbi-refseqs-feline	FIV	27	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142042	MW142042	MW142042/South America/-/Brazil/2011/28	-	ncbi-refseqs-feline	FIV	28	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142043	MW142043	MW142043/South America/-/Brazil/2011/29	-	ncbi-refseqs-feline	FIV	29	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142044	MW142044	MW142044/South America/-/Brazil/2014/32A	-	ncbi-refseqs-feline	FIV	32A	Brazil	-	South America	2014
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142045	MW142045	MW142045/South America/-/Brazil/2014/32B	-	ncbi-refseqs-feline	FIV	32B	Brazil	-	South America	2014
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142046	MW142046	MW142046/South America/-/Brazil/2017/33A	-	ncbi-refseqs-feline	FIV	33A	Brazil	-	South America	2017
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142047	MW142047	MW142047/South America/-/Brazil/2017/33B	-	ncbi-refseqs-feline	FIV	33B	Brazil	-	South America	2017
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW142048	MW142048	MW142048/South America/-/Brazil/2002/34	-	ncbi-refseqs-feline	FIV	34	Brazil	-	South America	2002
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW815633	MW815633	MW815633/South America/-/Brazil/2008/10	-	ncbi-refseqs-feline	FIV	10	Brazil	-	South America	2008
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW815634	MW815634	MW815634/South America/-/Brazil/2006/15	-	ncbi-refseqs-feline	FIV	15	Brazil	-	South America	2006
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW815635	MW815635	MW815635/South America/-/Brazil/2011/26	-	ncbi-refseqs-feline	FIV	26	Brazil	-	South America	2011
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/MW815636	MW815636	MW815636/South America/-/Brazil/2012/30	-	ncbi-refseqs-feline	FIV	30	Brazil	-	South America	2012
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/NC_001482	NC_001482	NC_001482/Global Fca/Main/-/-/Petaluma	2813380	ncbi-refseqs-feline	FIV	Petaluma	-	Main	Global Fca	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/U11820	U11820	U11820/South America/-/-/-/USIL2489_7B	7632468	ncbi-refseqs-feline	FIV	USIL2489_7B	-	-	South America	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/U56928	U56928	U56928/Asia//-/-/FIV-Oma	7474172	ncbi-refseqs-feline	FIV	FIV-Oma	-		Asia	-
+alignment/AL_TREE_Feline/member/ncbi-refseqs-feline/X57002	X57002	X57002/Global Fca/Main/-/-/Z1	1660215	ncbi-refseqs-feline	FIV	Z1	-	Main	Global Fca	-

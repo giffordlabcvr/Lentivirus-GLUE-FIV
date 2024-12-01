@@ -1,0 +1,26 @@
+  # Clean up
+  delete module figTreeAnnotationExporterFiv
+
+  # Create modules
+  create module -f modules/analysis/phylogeny/extension/fiv/figTreeAnnotationExporterFiv.xml
+  
+  # Export annotations
+  module figTreeAnnotationExporterFiv 
+  
+    export figtree-annotation AL_TREE_Feline \
+        -f trees/fivReferenceFigtreeAnnotations.tsv
+
+    exit
+
+  
+  # Midpoint root 
+  module lentiPhyloUtility
+  
+	# midpoint rooting
+	reroot-phylogeny \
+      --inputFile trees/fivReferencePhylogeny.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/fivReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+    exit
+    
