@@ -1,0 +1,14 @@
+  delete module equinePhyloImporter
+  create module -f  modules/build/extension/equine/equinePhyloImporter.xml
+
+  module equinePhyloImporter
+
+	import phylogeny AL_Tree_Feline \
+	--recursive  \
+	--anyAlignment  \
+	--whereClause "sequence.referenceSequences.name != null and referenceMember = false"  \
+	--inputFile trees/eiavReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS  \
+	--fieldName phylogeny
+
+	exit
+  

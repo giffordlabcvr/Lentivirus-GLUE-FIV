@@ -21,12 +21,19 @@
 
 	# Add extension set sequences constrained alignment tree
 	run file glue/build/extension/feline/alignmentTreeFeline.glue
-	
+    run file glue/build/extension/feline/alignmentTreeFivGenotyping.glue
+
 	# Compute alignments
 	run file glue/build/extension/feline/createAlignmentsFeline.glue
-	
+
+    # Derive constrained genotyping alignment from unconstrained
+    #
+    
 	# Record feature presence
 	run file glue/build/extension/feline/recordFeaturePresenceFeline.glue
+
+    # Import reference phylogeny
+    run file glue/build/extension/feline/importGenotypingPhylogenyFiv.glue
 
 	# Validate
 	validate
