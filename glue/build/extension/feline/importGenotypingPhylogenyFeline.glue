@@ -1,7 +1,7 @@
-  delete module equinePhyloImporter
-  create module -f  modules/build/extension/equine/equinePhyloImporter.xml
+  delete module felinePhyloImporter
+  create module -f  modules/build/extension/feline/felinePhyloImporter.xml
 
-  module equinePhyloImporter
+  module felinePhyloImporter
 
 	import phylogeny AL_Tree_Feline \
 	--recursive  \

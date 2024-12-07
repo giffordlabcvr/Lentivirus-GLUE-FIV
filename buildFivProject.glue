@@ -24,13 +24,13 @@
 	run file glue/build/extension/feline/createAlignmentsFeline.glue
 
     # Derive constrained genotyping alignment from unconstrained
-    #
+    # 
     
 	# Record feature presence
 	#run file glue/build/extension/feline/recordFeaturePresenceFeline.glue
 
     # Import reference phylogeny
-    run file glue/build/extension/feline/importGenotypingPhylogenyFiv.glue
+    run file glue/build/extension/feline/importGenotypingPhylogenyFeline.glue
 
 	# Validate
 	validate
