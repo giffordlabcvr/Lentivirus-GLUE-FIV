@@ -4,9 +4,6 @@
   # Feline lentiviruses
   project lentivirus
 
-    # Delete previous extension build
-    #run file glue/build/extension/feline/deleteExtensionBuildFeline.glue
-
     # Import sources
     run file glue/build/extension/feline/sourcesFeline.glue
 
@@ -30,7 +27,7 @@
     #
     
 	# Record feature presence
-	run file glue/build/extension/feline/recordFeaturePresenceFeline.glue
+	#run file glue/build/extension/feline/recordFeaturePresenceFeline.glue
 
     # Import reference phylogeny
     run file glue/build/extension/feline/importGenotypingPhylogenyFiv.glue

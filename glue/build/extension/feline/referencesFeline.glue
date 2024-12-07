@@ -1,8 +1,128 @@
-  ## Reference sequence declarations
+## Reference sequence declarations
 
-  # Feline immunodeficiency virus (Petuluma)
-  create reference REF_FIV_pco ncbi-refseqs-feline EF455613
-  create reference REF_FIV_oma ncbi-refseqs-feline U56928
+# Genotype Global Fca
+create reference REF_FIV_Global_Fca_M25381    ncbi-refseqs-core M25381
+create reference REF_FIV_Global_Fca_M36968    ncbi-refseqs-feline M36968
+create reference REF_FIV_Global_Fca_MF352016  ncbi-refseqs-feline MF352016
+create reference REF_FIV_Global_Fca_MN630242  ncbi-refseqs-feline MN630242
+create reference REF_FIV_Global_Fca_NC_001482 ncbi-refseqs-feline NC_001482
+create reference REF_FIV_Global_Fca_X57002    ncbi-refseqs-feline X57002
 
+# Genotype Canada
+create reference REF_FIV_Canada_AF474246    ncbi-refseqs-feline AF474246
+create reference REF_FIV_Canada_AY600517    ncbi-refseqs-feline AY600517
+
+# Genotype Africa
+create reference REF_FIV_Africa_EU117991  ncbi-refseqs-feline EU117991
+create reference REF_FIV_Africa_EU117992  ncbi-refseqs-feline EU117992
+
+# Genotype Asia
+create reference REF_FIV_Asia_AY713445    ncbi-refseqs-feline AY713445
+create reference REF_FIV_Asia_U56928      ncbi-refseqs-feline U56928
+
+# Genotype North America A
+create reference REF_FIV_NA_A_KF906143    ncbi-refseqs-feline KF906143
+create reference REF_FIV_NA_A_KF906144    ncbi-refseqs-feline KF906144
+create reference REF_FIV_NA_A_KF906145    ncbi-refseqs-feline KF906145
+create reference REF_FIV_NA_A_KF906146    ncbi-refseqs-feline KF906146
+create reference REF_FIV_NA_A_KF906147    ncbi-refseqs-feline KF906147
+create reference REF_FIV_NA_A_KF906148    ncbi-refseqs-feline KF906148
+create reference REF_FIV_NA_A_KF906149    ncbi-refseqs-feline KF906149
+create reference REF_FIV_NA_A_KF906150    ncbi-refseqs-feline KF906150
+create reference REF_FIV_NA_A_KF906151    ncbi-refseqs-feline KF906151
+create reference REF_FIV_NA_A_KF906152    ncbi-refseqs-feline KF906152
+create reference REF_FIV_NA_A_KF906153    ncbi-refseqs-feline KF906153
+create reference REF_FIV_NA_A_KF906154    ncbi-refseqs-feline KF906154
+create reference REF_FIV_NA_A_KF906155    ncbi-refseqs-feline KF906155
+create reference REF_FIV_NA_A_KF906156    ncbi-refseqs-feline KF906156
+create reference REF_FIV_NA_A_KF906157    ncbi-refseqs-feline KF906157
+create reference REF_FIV_NA_A_KF906158    ncbi-refseqs-feline KF906158
+create reference REF_FIV_NA_A_KF906159    ncbi-refseqs-feline KF906159
+create reference REF_FIV_NA_A_KF906160    ncbi-refseqs-feline KF906160
+create reference REF_FIV_NA_A_KF906161    ncbi-refseqs-feline KF906161
+create reference REF_FIV_NA_A_KF906162    ncbi-refseqs-feline KF906162
+create reference REF_FIV_NA_A_KF906163    ncbi-refseqs-feline KF906163
+create reference REF_FIV_NA_A_KF906167    ncbi-refseqs-feline KF906167
+create reference REF_FIV_NA_A_KF906168    ncbi-refseqs-feline KF906168
+create reference REF_FIV_NA_A_KF906169    ncbi-refseqs-feline KF906169
+create reference REF_FIV_NA_A_KF906170    ncbi-refseqs-feline KF906170
+
+# Genotype North America B
+create reference REF_FIV_NA_B_DQ192583    ncbi-refseqs-feline DQ192583
+create reference REF_FIV_NA_B_EF455603    ncbi-refseqs-feline EF455603
+create reference REF_FIV_NA_B_EF455604    ncbi-refseqs-feline EF455604
+create reference REF_FIV_NA_B_EF455605    ncbi-refseqs-feline EF455605
+create reference REF_FIV_NA_B_EF455606    ncbi-refseqs-feline EF455606
+create reference REF_FIV_NA_B_EF455607    ncbi-refseqs-feline EF455607
+create reference REF_FIV_NA_B_EF455608    ncbi-refseqs-feline EF455608
+create reference REF_FIV_NA_B_EF455609    ncbi-refseqs-feline EF455609
+create reference REF_FIV_NA_B_EF455610    ncbi-refseqs-feline EF455610
+create reference REF_FIV_NA_B_EF455611    ncbi-refseqs-feline EF455611
+create reference REF_FIV_NA_B_EF455612    ncbi-refseqs-feline EF455612
+create reference REF_FIV_NA_B_EF455613    ncbi-refseqs-feline EF455613
+create reference REF_FIV_NA_B_EF455614    ncbi-refseqs-feline EF455614
+create reference REF_FIV_NA_B_EF455615    ncbi-refseqs-feline EF455615
+create reference REF_FIV_NA_B_KF906175    ncbi-refseqs-feline KF906175
+create reference REF_FIV_NA_B_KF906176    ncbi-refseqs-feline KF906176
+create reference REF_FIV_NA_B_KF906177    ncbi-refseqs-feline KF906177
+create reference REF_FIV_NA_B_KF906178    ncbi-refseqs-feline KF906178
+create reference REF_FIV_NA_B_KF906179    ncbi-refseqs-feline KF906179
+create reference REF_FIV_NA_B_KF906180    ncbi-refseqs-feline KF906180
+create reference REF_FIV_NA_B_KF906181    ncbi-refseqs-feline KF906181
+create reference REF_FIV_NA_B_KF906182    ncbi-refseqs-feline KF906182
+create reference REF_FIV_NA_B_KF906183    ncbi-refseqs-feline KF906183
+create reference REF_FIV_NA_B_KF906184    ncbi-refseqs-feline KF906184
+create reference REF_FIV_NA_B_KF906185    ncbi-refseqs-feline KF906185
+create reference REF_FIV_NA_B_KF906186    ncbi-refseqs-feline KF906186
+create reference REF_FIV_NA_B_KF906187    ncbi-refseqs-feline KF906187
+create reference REF_FIV_NA_B_KF906188    ncbi-refseqs-feline KF906188
+create reference REF_FIV_NA_B_KF906189    ncbi-refseqs-feline KF906189
+create reference REF_FIV_NA_B_KF906190    ncbi-refseqs-feline KF906190
+create reference REF_FIV_NA_B_KF906191    ncbi-refseqs-feline KF906191
+create reference REF_FIV_NA_B_KF906192    ncbi-refseqs-feline KF906192
+create reference REF_FIV_NA_B_KF906193    ncbi-refseqs-feline KF906193
+create reference REF_FIV_NA_B_KF906194    ncbi-refseqs-feline KF906194
+
+# Genotype South America
+create reference REF_FIV_SA_AX139034    ncbi-refseqs-feline AX139034
+create reference REF_FIV_SA_DD029017    ncbi-refseqs-feline DD029017
+create reference REF_FIV_SA_E43300      ncbi-refseqs-feline E43300
+create reference REF_FIV_SA_M59418      ncbi-refseqs-feline M59418
+create reference REF_FIV_SA_MF370550    ncbi-refseqs-feline MF370550
+create reference REF_FIV_SA_MW142019    ncbi-refseqs-feline MW142019
+create reference REF_FIV_SA_MW142020    ncbi-refseqs-feline MW142020
+create reference REF_FIV_SA_MW142021    ncbi-refseqs-feline MW142021
+create reference REF_FIV_SA_MW142022    ncbi-refseqs-feline MW142022
+create reference REF_FIV_SA_MW142023    ncbi-refseqs-feline MW142023
+create reference REF_FIV_SA_MW142024    ncbi-refseqs-feline MW142024
+create reference REF_FIV_SA_MW142025    ncbi-refseqs-feline MW142025
+create reference REF_FIV_SA_MW142026    ncbi-refseqs-feline MW142026
+create reference REF_FIV_SA_MW142027    ncbi-refseqs-feline MW142027
+create reference REF_FIV_SA_MW142028    ncbi-refseqs-feline MW142028
+create reference REF_FIV_SA_MW142029    ncbi-refseqs-feline MW142029
+create reference REF_FIV_SA_MW142030    ncbi-refseqs-feline MW142030
+create reference REF_FIV_SA_MW142031    ncbi-refseqs-feline MW142031
+create reference REF_FIV_SA_MW142032    ncbi-refseqs-feline MW142032
+create reference REF_FIV_SA_MW142033    ncbi-refseqs-feline MW142033
+create reference REF_FIV_SA_MW142034    ncbi-refseqs-feline MW142034
+create reference REF_FIV_SA_MW142035    ncbi-refseqs-feline MW142035
+create reference REF_FIV_SA_MW142036    ncbi-refseqs-feline MW142036
+create reference REF_FIV_SA_MW142037    ncbi-refseqs-feline MW142037
+create reference REF_FIV_SA_MW142038    ncbi-refseqs-feline MW142038
+create reference REF_FIV_SA_MW142039    ncbi-refseqs-feline MW142039
+create reference REF_FIV_SA_MW142040    ncbi-refseqs-feline MW142040
+create reference REF_FIV_SA_MW142041    ncbi-refseqs-feline MW142041
+create reference REF_FIV_SA_MW142042    ncbi-refseqs-feline MW142042
+create reference REF_FIV_SA_MW142043    ncbi-refseqs-feline MW142043
+create reference REF_FIV_SA_MW142044    ncbi-refseqs-feline MW142044
+create reference REF_FIV_SA_MW142045    ncbi-refseqs-feline MW142045
+create reference REF_FIV_SA_MW142046    ncbi-refseqs-feline MW142046
+create reference REF_FIV_SA_MW142047    ncbi-refseqs-feline MW142047
+create reference REF_FIV_SA_MW142048    ncbi-refseqs-feline MW142048
+create reference REF_FIV_SA_MW815633    ncbi-refseqs-feline MW815633
+create reference REF_FIV_SA_MW815634    ncbi-refseqs-feline MW815634
+create reference REF_FIV_SA_MW815635    ncbi-refseqs-feline MW815635
+create reference REF_FIV_SA_MW815636    ncbi-refseqs-feline MW815636
+create reference REF_FIV_SA_U11820      ncbi-refseqs-feline U11820
 
 

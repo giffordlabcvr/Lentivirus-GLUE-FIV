@@ -1,21 +1,74 @@
 create alignment AL_TREE_Feline -r REF_FIV
+
 alignment AL_TREE_Feline
  
     set field displayName "Feline lentiviruses"
     set field clade_category subgenus
 
     add member -w "source.name = 'ncbi-refseqs-feline'"
-   
-    extract child AL_TREE_EIAV_Am --refName REF_EIAV_Am_AB008196
-    demote member AL_TREE_EIAV_Am --whereClause "sequence.genotype = 'American'"
-   
+ 
+    extract child AL_TREE_FIV_GlobalFca --refName REF_FIV
+    demote member AL_TREE_FIV_GlobalFca --whereClause "sequence.genotype = 'Global Fca'"
+ 
+    extract child AL_TREE_FIV_Canada --refName REF_FIV_Canada_AF474246
+    demote member AL_TREE_FIV_Canada --whereClause "sequence.genotype = 'Canada'"
+ 
+    extract child AL_TREE_FIV_Africa --refName REF_FIV_Africa_EU117991
+    demote member AL_TREE_FIV_Africa --whereClause "sequence.genotype = 'Africa'"
+
+    extract child AL_TREE_FIV_Asia --refName REF_FIV_Asia_AY713445
+    demote member AL_TREE_FIV_Asia --whereClause "sequence.genotype = 'Asia'"
+
+    extract child AL_TREE_FIV_SA --refName REF_FIV_SA_AX139034
+    demote member AL_TREE_FIV_SA --whereClause "sequence.genotype = 'South America'"
+
+    extract child AL_TREE_FIV_NA_A --refName REF_FIV_NA_A_KF906143
+    demote member AL_TREE_FIV_NA_A --whereClause "sequence.genotype = 'A'"
+
+    extract child AL_TREE_FIV_NA_B --refName REF_FIV_NA_B_DQ192583
+    demote member AL_TREE_FIV_NA_B --whereClause "sequence.genotype = 'B'"
 
     exit
 
-alignment AL_TREE_EIAV_Am
+alignment AL_TREE_FIV_GlobalFca
  
-    set field displayName "American"
+    set field displayName "Global Fca"
     set field clade_category genotype
+    exit
+
+alignment AL_TREE_FIV_Canada
  
+    set field displayName "Canada"
+    set field clade_category genotype
+    exit
+
+alignment AL_TREE_FIV_Africa
+ 
+    set field displayName "Africa"
+    set field clade_category genotype
+    exit
+
+alignment AL_TREE_FIV_Asia
+ 
+    set field displayName "Asia"
+    set field clade_category genotype
+    exit
+
+alignment AL_TREE_FIV_SA
+ 
+    set field displayName "South America"
+    set field clade_category genotype
+    exit
+
+alignment AL_TREE_FIV_NA_A
+ 
+    set field displayName "North America A"
+    set field clade_category genotype
+    exit
+
+alignment AL_TREE_FIV_NA_B
+ 
+    set field displayName "North America B"
+    set field clade_category genotype
     exit
 
