@@ -1,0 +1,18 @@
+
+#~# Import unconstrained reference alignments
+module unconstrainedAlignmentImporter
+
+	# Feline group root
+	import AL_UNC_Feline -f alignments/root/fiv-root.aln.fna
+
+	# Genotype-level
+	import AL_UNC_FIV_GlobalFca -f alignments/genotype/fiv-global-fca.aln.fna
+	import AL_UNC_FIV_Canada    -f alignments/genotype/fiv-canada.aln.fna
+	import AL_UNC_FIV_Africa    -f alignments/genotype/fiv-africa.aln.fna
+	import AL_UNC_FIV_Asia      -f alignments/genotype/fiv-asia.aln.fna
+	import AL_UNC_FIV_SA        -f alignments/genotype/fiv-south-america.aln.fna
+	import AL_UNC_FIV_NA_A      -f alignments/genotype/fiv-north-america-a.aln.fna
+	import AL_UNC_FIV_NA_B      -f alignments/genotype/fiv-north-america-b.aln.fna
+
+	exit
+

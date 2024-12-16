@@ -1,0 +1,35 @@
+
+#~# Derive constrained segments throughout the tree from unconstrained    
+
+alignment AL_Tree_Feline
+	derive segments AL_UNC_Feline --recursive --existingMembersOnly --allMembers -m OVERWRITE
+    exit
+
+alignment AL_TREE_FIV_GlobalFca 
+	derive segments AL_UNC_FIV_GlobalFca --recursive --existingMembersOnly --allMembers -m OVERWRITE
+    exit
+
+alignment AL_TREE_FIV_Canada 
+	derive segments AL_UNC_FIV_Canada --recursive --existingMembersOnly --allMembers -m OVERWRITE
+    exit
+
+alignment AL_TREE_FIV_Africa 
+	derive segments AL_UNC_FIV_Africa --recursive --existingMembersOnly --allMembers -m OVERWRITE
+    exit
+
+alignment AL_TREE_FIV_Asia 
+	derive segments AL_UNC_FIV_Asia --recursive --existingMembersOnly --allMembers -m OVERWRITE
+    exit
+ 
+alignment AL_TREE_FIV_SA 
+	derive segments AL_UNC_FIV_SA --recursive --existingMembersOnly --allMembers -m OVERWRITE
+    exit
+
+alignment AL_TREE_FIV_NA_A 
+	derive segments AL_UNC_FIV_NA_A --recursive --existingMembersOnly --allMembers -m OVERWRITE
+    exit
+
+alignment AL_TREE_FIV_NA_B 
+	derive segments AL_UNC_FIV_NA_B --recursive --existingMembersOnly --allMembers -m OVERWRITE
+    exit
+

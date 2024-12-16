@@ -7,7 +7,7 @@
 	--recursive  \
 	--anyAlignment  \
 	--whereClause "sequence.referenceSequences.name != null and referenceMember = false"  \
-	--inputFile trees/eiavReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS  \
+	--inputFile trees/fivReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS  \
 	--fieldName phylogeny
 
 	exit

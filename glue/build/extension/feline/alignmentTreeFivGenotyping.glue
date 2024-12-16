@@ -5,7 +5,7 @@ alignment AL_TREE_Feline
     set field displayName "Feline lentiviruses"
     set field clade_category subgenus
 
-    add member -w "species = 'FIV'"
+    add member -w "species = 'FIV' and source.name like 'ncbi-refseqs%'"
  
     extract child AL_TREE_FIV_GlobalFca --refName REF_FIV
     demote member AL_TREE_FIV_GlobalFca --whereClause "sequence.genotype = 'Global Fca'"
