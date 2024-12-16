@@ -1,9 +1,17 @@
-
-#~# Import unconstrained reference alignments
+#~# Import unconstrained root alignment
 module unconstrainedAlignmentImporter
 
 	# Feline group root
 	import AL_UNC_Feline -f alignments/root/fiv-root.aln.fna
+	exit
+
+#~# Import unconstrained genotype reference alignments
+delete module uncAlignmentImporterFivGenotypes
+create module -f modules/build/extension/feline/uncAlignmentImporterFivGenotypes.xml
+module uncAlignmentImporterFivGenotypes
+     
+    # Reference alignment with all refs for genotyping
+	import AL_UNC_TREE_Feline -f alignments/root/fiv-root-all-refs.aln.fna
 
 	# Genotype-level
 	import AL_UNC_FIV_GlobalFca -f alignments/genotype/fiv-global-fca.aln.fna
@@ -13,6 +21,5 @@ module unconstrainedAlignmentImporter
 	import AL_UNC_FIV_SA        -f alignments/genotype/fiv-south-america.aln.fna
 	import AL_UNC_FIV_NA_A      -f alignments/genotype/fiv-north-america-a.aln.fna
 	import AL_UNC_FIV_NA_B      -f alignments/genotype/fiv-north-america-b.aln.fna
-
 	exit
 

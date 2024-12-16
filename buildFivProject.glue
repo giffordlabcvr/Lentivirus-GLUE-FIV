@@ -14,7 +14,6 @@
     run file glue/build/extension/feline/importIsolateDataFeline.glue
 
 	# Add extension set sequences constrained alignment tree
-	run file glue/build/extension/feline/alignmentTreeFeline.glue
     run file glue/build/extension/feline/alignmentTreeFivGenotyping.glue
 
 	# Import alignments
