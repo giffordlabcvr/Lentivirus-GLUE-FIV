@@ -13,18 +13,15 @@
     # Extract and import isolate data for extension sequences
     run file glue/build/extension/feline/importIsolateDataFeline.glue
 
-	# Import alignments
-	run file glue/build/extension/feline/alignmentFeline.glue
-
 	# Add extension set sequences constrained alignment tree
 	run file glue/build/extension/feline/alignmentTreeFeline.glue
     run file glue/build/extension/feline/alignmentTreeFivGenotyping.glue
 
-	# Compute alignments
-	run file glue/build/extension/feline/createAlignmentsFeline.glue
+	# Import alignments
+    run file glue/build/extension/feline/importUnconstrainedAlignments.glue
 
     # Derive constrained genotyping alignment from unconstrained
-    # 
+    run file glue/build/extension/feline/deriveConstrainedAlignments.glue
     
 	# Record feature presence
 	#run file glue/build/extension/feline/recordFeaturePresenceFeline.glue
