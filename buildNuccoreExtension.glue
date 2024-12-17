@@ -13,8 +13,15 @@
     create module -f modules/build/extension/feline/genbankXmlPopulatorFeline.xml
     module genbankXmlPopulatorFeline populate -w "source.name = 'ncbi-nuccore-feline'"
 
+    # Import previously computed genotypes
+    delete module sideDataImporterFelineGenotypes
+    create module -f modules/build/extension/feline/sideDataImporterFelineGenotypes.xml
+    module sideDataImporterFelineGenotypes
+        populate -f tabular/extension/feline/fiv-nuccore-genotypes.tsv
+        exit
+
     # Genotype nuccore sequences
-    run script glue/build/extension/feline/doRaxmlGenotyping.js
+    #run script glue/build/extension/feline/doRaxmlGenotyping.js
 
     # Add nuccore sequences to feline lentivirus alignment tree
     run file glue/build/extension/feline/extendAlignmentTreeFiv.glue

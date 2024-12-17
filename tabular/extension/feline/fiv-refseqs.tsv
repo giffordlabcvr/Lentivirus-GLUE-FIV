@@ -1,112 +1,112 @@
 sequenceID	source.name	species	full_name	subgenus	genotype	subtype	pubmed_id	length	host_sci_name	host_common_name	collection_year	country	place_sampled
-M25381	ncbi-refseqs-core	FIV	Feline immunodeficiency virus	Feline	Global Fca	Main	2928341	9474	Felis catus	Domestic cat	-	United States	
-AF474246	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Canada	Main	-	9470	-	-	-	Canada	 British Columbia
-AX139034	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	9464	-	-	-	-	
-AY600517	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Canada	-	15308694	9466	-	-	-	-	
-AY713445	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Asia	-	-	9751	Otocolobus manul	-	-	-	
-DD029017	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	9464	-	-	-	-	
-DQ192583	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	16501082	9092	Puma concolor	-	-	Canada	 Vancouver Island, BC
-E43300	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	9464	-	-	-	-	
-EF455603	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9166	Puma concolor	-	-	-	
-EF455604	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9187	Puma concolor	-	-	-	
-EF455605	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9151	Puma concolor	-	-	-	
-EF455606	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9160	Puma concolor	-	-	-	
-EF455607	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9165	Puma concolor	-	-	-	
-EF455608	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9161	Puma concolor	-	-	-	
-EF455609	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9145	Puma concolor	-	-	-	
-EF455610	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9145	Puma concolor	-	-	-	
-EF455611	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9137	Puma concolor	-	-	-	
-EF455612	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9147	Puma concolor	-	-	-	
-EF455613	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	NULL	17445856	9203	Puma concolor	-	-	-	
-EF455614	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9203	Puma concolor	-	-	-	
-EF455615	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	17445856	9152	-	-	-	-	
+KF906143	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8030	Lynx rufus	-	1996	USA	 Southern California
+KF906144	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8024	Lynx rufus	-	2001	USA	 Southern California
+KF906145	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8036	Lynx rufus	-	2001	USA	 Southern California
+KF906146	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8030	Lynx rufus	-	2002	USA	 Southern California
+KF906147	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8027	Lynx rufus	-	2002	USA	 Southern California
+KF906148	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8029	Lynx rufus	-	2003	USA	 Southern California
+KF906149	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8050	Lynx rufus	-	2005	USA	 Southern California
+KF906150	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8041	Lynx rufus	-	2006	USA	 Southern California
+KF906151	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8038	Lynx rufus	-	2007	USA	 Southern California
+KF906152	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8050	Lynx rufus	-	2006	USA	 Southern California
+KF906153	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8029	Lynx rufus	-	2009	USA	 Southern California
+KF906154	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8029	Lynx rufus	-	2009	USA	 Southern California
+KF906155	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8035	Lynx rufus	-	2009	USA	 Southern California
+KF906156	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8016	Lynx rufus	-	1984	USA	 Florida
+KF906157	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8025	Lynx rufus	-	2007	USA	 Florida
+KF906158	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8019	Lynx rufus	-	2010	USA	 Florida
+KF906159	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8019	Lynx rufus	-	2010	USA	 Florida
+KF906160	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8019	Lynx rufus	-	2010	USA	 Florida
+KF906161	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8019	Lynx rufus	-	2010	USA	 Florida
+KF906162	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8016	Lynx rufus	-	2010	USA	 Florida
+KF906163	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8036	Puma concolor	-	2004	USA	 Southern California
+KF906167	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8038	Puma concolor	-	2004	USA	 Southern California
+KF906168	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8044	Puma concolor	-	2003	USA	 Southern California
+KF906169	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8044	Puma concolor	-	2007	USA	 Southern California
+KF906170	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_A	-	24741092	8026	Puma concolor	-	2002	USA	 Southern California
 EU117991	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Africa	-	18251995	9898	Panthera leo	-	-	USA	
 EU117992	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Africa	-	18251995	9891	Panthera leo	-	-	Botswana	
-KF906143	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8030	Lynx rufus	-	1996	USA	 Southern California
-KF906144	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8024	Lynx rufus	-	2001	USA	 Southern California
-KF906145	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8036	Lynx rufus	-	2001	USA	 Southern California
-KF906146	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8030	Lynx rufus	-	2002	USA	 Southern California
-KF906147	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8027	Lynx rufus	-	2002	USA	 Southern California
-KF906148	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8029	Lynx rufus	-	2003	USA	 Southern California
-KF906149	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8050	Lynx rufus	-	2005	USA	 Southern California
-KF906150	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8041	Lynx rufus	-	2006	USA	 Southern California
-KF906151	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8038	Lynx rufus	-	2007	USA	 Southern California
-KF906152	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8050	Lynx rufus	-	2006	USA	 Southern California
-KF906153	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8029	Lynx rufus	-	2009	USA	 Southern California
-KF906154	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8029	Lynx rufus	-	2009	USA	 Southern California
-KF906155	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8035	Lynx rufus	-	2009	USA	 Southern California
-KF906156	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8016	Lynx rufus	-	1984	USA	 Florida
-KF906157	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8025	Lynx rufus	-	2007	USA	 Florida
-KF906158	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8019	Lynx rufus	-	2010	USA	 Florida
-KF906159	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8019	Lynx rufus	-	2010	USA	 Florida
-KF906160	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8019	Lynx rufus	-	2010	USA	 Florida
-KF906161	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8019	Lynx rufus	-	2010	USA	 Florida
-KF906162	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8016	Lynx rufus	-	2010	USA	 Florida
-KF906163	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8036	Puma concolor	-	2004	USA	 Southern California
-KF906167	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8038	Puma concolor	-	2004	USA	 Southern California
-KF906168	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8044	Puma concolor	-	2003	USA	 Southern California
-KF906169	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8044	Puma concolor	-	2007	USA	 Southern California
-KF906170	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	A	-	24741092	8026	Puma concolor	-	2002	USA	 Southern California
-KF906175	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8108	Puma concolor	-	2003	USA	 Southern California
-KF906176	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8111	Puma concolor	-	2002	USA	 Southern California
-KF906177	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8111	Puma concolor	-	2003	USA	 Southern California
-KF906178	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8111	Puma concolor	-	2003	USA	 Southern California
-KF906179	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8114	Puma concolor	-	2003	USA	 Southern California
-KF906180	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8111	Puma concolor	-	2005	USA	 Southern California
-KF906181	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8111	Puma concolor	-	2006	USA	 Southern California
-KF906182	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8111	Puma concolor	-	2002	USA	 Southern California
-KF906183	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8111	Puma concolor	-	2002	USA	 Southern California
-KF906184	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8112	Puma concolor	-	2009	USA	 Western Colorado
-KF906185	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8108	Puma concolor	-	2002	USA	 Southern California
-KF906186	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8143	Puma concolor	-	2009	USA	 Western Colorado
-KF906187	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8114	Puma concolor	-	2009	USA	 Western Colorado
-KF906188	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8114	Puma concolor	-	2009	USA	 Eastern Colorado
-KF906189	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8114	Puma concolor	-	2010	USA	 Western Colorado
-KF906190	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8114	Puma concolor	-	2010	USA	 Eastern Colorado
-KF906191	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8114	Puma concolor	-	2010	USA	 Eastern Colorado
-KF906192	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8114	Puma concolor	-	2010	USA	 Eastern Colorado
-KF906193	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8111	Puma concolor	-	2011	USA	 Southern California
-KF906194	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	B	-	24741092	8114	Puma concolor	-	2008	USA	 Eastern Colorado
-M36968	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Global Fca	-	1697907	9468	-	-	-	-	
-M59418	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	1649349	9471	-	-	-	-	
-MF352016	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Global Fca	-	-	9429	-	-	-	China	
-MF370550	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	28963205	8967	Felis catus	-	2013	Brazil	 Suzano, SP
-MN630242	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Global Fca	-	-	8977	Felis catus breed Ragdoll	-	2018	Colombia	 Bogota
-MW142019	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8967	Felis catus	-	2015	Brazil	 Suzano, SP
-MW142020	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8967	Felis catus	-	2012	Brazil	 Suzano, SP
-MW142021	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8967	Felis catus	-	2007	Brazil	 Suzano, SP
-MW142022	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8967	Felis catus	-	2011	Brazil	 Suzano, SP
-MW142023	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8967	Felis catus	-	2007	Brazil	 Suzano, SP
-MW142024	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8967	Felis catus	-	2009	Brazil	 Suzano, SP
-MW142025	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8967	Felis catus	-	2011	Brazil	 Suzano, SP
-MW142026	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8967	Felis catus	-	2011	Brazil	 Suzano, SP
-MW142027	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8975	Felis catus	-	2007	Brazil	 Botucatu, SP
-MW142028	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8962	Felis catus	-	2007	Brazil	 Botucatu, SP
-MW142029	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8971	Felis catus	-	2007	Brazil	 Botucatu, SP
-MW142030	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8961	Felis catus	-	2007	Brazil	 Botucatu, SP
-MW142031	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8970	Felis catus	-	2007	Brazil	 Botucatu, SP
-MW142032	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8964	Felis catus	-	2007	Brazil	 Botucatu, SP
-MW142033	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8964	Felis catus	-	2007	Brazil	 Botucatu, SP
-MW142034	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8966	Felis catus	-	2011	Brazil	 Botucatu, SP
-MW142035	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8971	Felis catus	-	2011	Brazil	 Botucatu, SP
-MW142036	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8970	Felis catus	-	2011	Brazil	 Botucatu, SP
-MW142037	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8972	Felis catus	-	2011	Brazil	 Sao Paulo, SP
-MW142038	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8970	Felis catus	-	2011	Brazil	 Sao Paulo, SP
-MW142039	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8970	Felis catus	-	2011	Brazil	 Sao Paulo, SP
-MW142040	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8970	Felis catus	-	2011	Brazil	 Sao Paulo, SP
-MW142041	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8972	Felis catus	-	2011	Brazil	 Sao Paulo, SP
-MW142042	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8972	Felis catus	-	2011	Brazil	 Sao Paulo, SP
-MW142043	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8970	Felis catus	-	2011	Brazil	 Sao Paulo, SP
-MW142044	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8956	Felis catus	-	2014	Brazil	 Joinville, SC
-MW142045	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8956	Felis catus	-	2014	Brazil	 Joinville, SC
-MW142046	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8963	Felis catus	-	2017	Brazil	 Sobral, CE
-MW142047	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8963	Felis catus	-	2017	Brazil	 Sobral, CE
-MW142048	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8964	Felis catus	-	2002	Brazil	 Botucatu, SP
-MW815633	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8976	Felis catus	-	2008	Brazil	 Botucatu, SP
-MW815634	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8961	Felis catus	-	2006	Brazil	 Botucatu, SP
-MW815635	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8972	Felis catus	-	2011	Brazil	 Sao Paulo, SP
-MW815636	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	-	8970	Felis catus	-	2012	Brazil	 Santos, SP
-NC_001482	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Global Fca	Main	2813380	9474	-	-	-	-	
-U11820	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	South America	-	7632468	9462	Felis domesticus	-	-	-	
+AY713445	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Asia	-	-	9751	Otocolobus manul	-	-	-	
 U56928	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Asia		7474172	9745	Otocolobus manul	-	-	-	
-X57002	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Global Fca	Main	1660215	9485	-	-	-	-	
+DQ192583	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	16501082	9092	Puma concolor	-	-	Canada	 Vancouver Island, BC
+EF455603	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9166	Puma concolor	-	-	-	
+EF455604	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9187	Puma concolor	-	-	-	
+EF455605	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9151	Puma concolor	-	-	-	
+EF455606	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9160	Puma concolor	-	-	-	
+EF455607	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9165	Puma concolor	-	-	-	
+EF455608	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9161	Puma concolor	-	-	-	
+EF455609	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9145	Puma concolor	-	-	-	
+EF455610	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9145	Puma concolor	-	-	-	
+EF455611	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9137	Puma concolor	-	-	-	
+EF455612	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9147	Puma concolor	-	-	-	
+EF455613	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	NULL	17445856	9203	Puma concolor	-	-	-	
+EF455614	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9203	Puma concolor	-	-	-	
+EF455615	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	17445856	9152	-	-	-	-	
+KF906175	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8108	Puma concolor	-	2003	USA	 Southern California
+KF906176	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8111	Puma concolor	-	2002	USA	 Southern California
+KF906177	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8111	Puma concolor	-	2003	USA	 Southern California
+KF906178	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8111	Puma concolor	-	2003	USA	 Southern California
+KF906179	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8114	Puma concolor	-	2003	USA	 Southern California
+KF906180	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8111	Puma concolor	-	2005	USA	 Southern California
+KF906181	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8111	Puma concolor	-	2006	USA	 Southern California
+KF906182	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8111	Puma concolor	-	2002	USA	 Southern California
+KF906183	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8111	Puma concolor	-	2002	USA	 Southern California
+KF906184	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8112	Puma concolor	-	2009	USA	 Western Colorado
+KF906185	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8108	Puma concolor	-	2002	USA	 Southern California
+KF906186	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8143	Puma concolor	-	2009	USA	 Western Colorado
+KF906187	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8114	Puma concolor	-	2009	USA	 Western Colorado
+KF906188	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8114	Puma concolor	-	2009	USA	 Eastern Colorado
+KF906189	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8114	Puma concolor	-	2010	USA	 Western Colorado
+KF906190	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8114	Puma concolor	-	2010	USA	 Eastern Colorado
+KF906191	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8114	Puma concolor	-	2010	USA	 Eastern Colorado
+KF906192	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8114	Puma concolor	-	2010	USA	 Eastern Colorado
+KF906193	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8111	Puma concolor	-	2011	USA	 Southern California
+KF906194	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	NA_B	-	24741092	8114	Puma concolor	-	2008	USA	 Eastern Colorado
+AF474246	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Canada	Main	-	9470	-	-	-	Canada	 British Columbia
+AY600517	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	Canada	-	15308694	9466	-	-	-	-	
+M25381	ncbi-refseqs-core	FIV	Feline immunodeficiency virus	Feline	GlobalFca	Main	2928341	9474	Felis catus	Domestic cat	-	United States	
+M36968	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	GlobalFca	-	1697907	9468	-	-	-	-	
+MF352016	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	GlobalFca	-	-	9429	-	-	-	China	
+MN630242	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	GlobalFca	-	-	8977	Felis catus breed Ragdoll	-	2018	Colombia	 Bogota
+NC_001482	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	GlobalFca	Main	2813380	9474	-	-	-	-	
+X57002	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	GlobalFca	Main	1660215	9485	-	-	-	-	
+AX139034	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	9464	-	-	-	-	
+DD029017	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	9464	-	-	-	-	
+E43300	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	9464	-	-	-	-	
+M59418	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	1649349	9471	-	-	-	-	
+MF370550	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	28963205	8967	Felis catus	-	2013	Brazil	 Suzano, SP
+MW142019	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8967	Felis catus	-	2015	Brazil	 Suzano, SP
+MW142020	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8967	Felis catus	-	2012	Brazil	 Suzano, SP
+MW142021	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8967	Felis catus	-	2007	Brazil	 Suzano, SP
+MW142022	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8967	Felis catus	-	2011	Brazil	 Suzano, SP
+MW142023	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8967	Felis catus	-	2007	Brazil	 Suzano, SP
+MW142024	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8967	Felis catus	-	2009	Brazil	 Suzano, SP
+MW142025	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8967	Felis catus	-	2011	Brazil	 Suzano, SP
+MW142026	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8967	Felis catus	-	2011	Brazil	 Suzano, SP
+MW142027	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8975	Felis catus	-	2007	Brazil	 Botucatu, SP
+MW142028	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8962	Felis catus	-	2007	Brazil	 Botucatu, SP
+MW142029	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8971	Felis catus	-	2007	Brazil	 Botucatu, SP
+MW142030	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8961	Felis catus	-	2007	Brazil	 Botucatu, SP
+MW142031	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8970	Felis catus	-	2007	Brazil	 Botucatu, SP
+MW142032	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8964	Felis catus	-	2007	Brazil	 Botucatu, SP
+MW142033	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8964	Felis catus	-	2007	Brazil	 Botucatu, SP
+MW142034	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8966	Felis catus	-	2011	Brazil	 Botucatu, SP
+MW142035	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8971	Felis catus	-	2011	Brazil	 Botucatu, SP
+MW142036	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8970	Felis catus	-	2011	Brazil	 Botucatu, SP
+MW142037	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8972	Felis catus	-	2011	Brazil	 Sao Paulo, SP
+MW142038	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8970	Felis catus	-	2011	Brazil	 Sao Paulo, SP
+MW142039	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8970	Felis catus	-	2011	Brazil	 Sao Paulo, SP
+MW142040	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8970	Felis catus	-	2011	Brazil	 Sao Paulo, SP
+MW142041	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8972	Felis catus	-	2011	Brazil	 Sao Paulo, SP
+MW142042	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8972	Felis catus	-	2011	Brazil	 Sao Paulo, SP
+MW142043	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8970	Felis catus	-	2011	Brazil	 Sao Paulo, SP
+MW142044	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8956	Felis catus	-	2014	Brazil	 Joinville, SC
+MW142045	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8956	Felis catus	-	2014	Brazil	 Joinville, SC
+MW142046	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8963	Felis catus	-	2017	Brazil	 Sobral, CE
+MW142047	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8963	Felis catus	-	2017	Brazil	 Sobral, CE
+MW142048	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8964	Felis catus	-	2002	Brazil	 Botucatu, SP
+MW815633	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8976	Felis catus	-	2008	Brazil	 Botucatu, SP
+MW815634	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8961	Felis catus	-	2006	Brazil	 Botucatu, SP
+MW815635	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8972	Felis catus	-	2011	Brazil	 Sao Paulo, SP
+MW815636	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	-	8970	Felis catus	-	2012	Brazil	 Santos, SP
+U11820	ncbi-refseqs-feline	FIV	Feline immunodeficiency virus	Feline	SA	-	7632468	9462	Felis domesticus	-	-	-	

@@ -8,7 +8,7 @@ alignment AL_TREE_Feline
     add member -w "species = 'FIV' and source.name like 'ncbi-refseqs%'"
  
     extract child AL_TREE_FIV_GlobalFca --refName REF_FIV
-    demote member AL_TREE_FIV_GlobalFca --whereClause "sequence.genotype = 'Global Fca'"
+    demote member AL_TREE_FIV_GlobalFca --whereClause "sequence.genotype = 'GlobalFca'"
  
     extract child AL_TREE_FIV_Canada --refName REF_FIV_Canada_AF474246
     demote member AL_TREE_FIV_Canada --whereClause "sequence.genotype = 'Canada'"
@@ -20,13 +20,13 @@ alignment AL_TREE_Feline
     demote member AL_TREE_FIV_Asia --whereClause "sequence.genotype = 'Asia'"
 
     extract child AL_TREE_FIV_SA --refName REF_FIV_SA_AX139034
-    demote member AL_TREE_FIV_SA --whereClause "sequence.genotype = 'South America'"
+    demote member AL_TREE_FIV_SA --whereClause "sequence.genotype = 'SA'"
 
     extract child AL_TREE_FIV_NA_A --refName REF_FIV_NA_A_KF906143
-    demote member AL_TREE_FIV_NA_A --whereClause "sequence.genotype = 'A'"
+    demote member AL_TREE_FIV_NA_A --whereClause "sequence.genotype = 'NA_A'"
 
     extract child AL_TREE_FIV_NA_B --refName REF_FIV_NA_B_DQ192583
-    demote member AL_TREE_FIV_NA_B --whereClause "sequence.genotype = 'B'"
+    demote member AL_TREE_FIV_NA_B --whereClause "sequence.genotype = 'NA_B'"
 
     exit
 
