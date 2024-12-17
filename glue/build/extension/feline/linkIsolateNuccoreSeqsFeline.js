@@ -18,7 +18,7 @@ _.each(seqIds, function(seqId) {
         
     });
 
-	glue.inMode("sequence/ncbi-curated-fiv/"+seqId, function() {
+	glue.inMode("sequence/ncbi-nuccore-feline/"+seqId, function() {
 	
 		glue.command(["set", "field", "species", 'FIV']);
 		glue.command(["set", "field", "clade", 'Feline']);
