@@ -1,21 +1,25 @@
 
-  # Import nuccore sequences
-  import source sources/virus/extension/feline/ncbi-nuccore-feline
+  # Feline lentivirus project extension
+  project lentivirus
 
-  # Link nuccore sequences to isolate data
-  run script glue/build/extension/feline/linkIsolateNuccoreSeqsFeline.js
-  
-  # Extract data from the XML files
-  delete module genbankXmlPopulatorFeline
-  create module -f modules/build/extension/feline/genbankXmlPopulatorFeline.xml
-  module genbankXmlPopulatorFeline populate -w "source.name = 'ncbi-nuccore-feline'"
+    # Import nuccore sequences
+    import source sources/virus/extension/feline/ncbi-nuccore-feline
 
-  # Genotype nuccore sequences
-  run script glue/build/extension/feline/doRaxmlGenotyping.js
+    # Link nuccore sequences to isolate data
+    run script glue/build/extension/feline/linkIsolateNuccoreSeqsFeline.js
 
-  # Add nuccore sequences to feline lentivirus alignment tree
-  run file glue/build/extension/feline/extendAlignmentTreeFiv.glue
+    # Extract data from the XML files
+    delete module genbankXmlPopulatorFeline
+    create module -f modules/build/extension/feline/genbankXmlPopulatorFeline.xml
+    module genbankXmlPopulatorFeline populate -w "source.name = 'ncbi-nuccore-feline'"
 
-  # Record feature presence in constrained alignments
-  run file glue/build/extension/feline/recordFeaturePresenceFeline.glue
+    # Genotype nuccore sequences
+    run script glue/build/extension/feline/doRaxmlGenotyping.js
 
+    # Add nuccore sequences to feline lentivirus alignment tree
+    run file glue/build/extension/feline/extendAlignmentTreeFiv.glue
+
+    # Record feature presence in constrained alignments
+    run file glue/build/extension/feline/recordFeaturePresenceFeline.glue
+
+    exit
