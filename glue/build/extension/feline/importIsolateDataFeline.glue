@@ -1,19 +1,14 @@
-  delete module genbankXmlPopulatorFeline
-  
-  create module -f modules/build/extension/feline/genbankXmlPopulatorFeline.xml
 
-  # Link extension set sequences to isolate data
+  # Link extension reference sequences to isolate data
   run script glue/build/extension/feline/linkIsolateExtensionRefseqsFeline.js
-  run script glue/build/extension/feline/linkIsolateNuccoreSeqsFeline.js
   
   # Extract data from the XML files
-  module genbankXmlPopulatorFeline populate -w "source.name like '%-feline'"
+  delete module genbankXmlPopulatorFeline
+  create module -f modules/build/extension/feline/genbankXmlPopulatorFeline.xml
+  module genbankXmlPopulatorFeline populate -w "source.name = 'ncbi-refseqs-feline'"
 
   # Import metadata for exogenous reference sequences from tabular
   create module -f modules/build/extension/feline/sideDataImporterFeline.xml felineSideDataImporter
   module felineSideDataImporter
-  
 	populate -f tabular/extension/feline/fiv-refseqs.tsv
-	
 	exit
-

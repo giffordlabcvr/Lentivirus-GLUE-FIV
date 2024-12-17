@@ -1,0 +1,4 @@
+ 
+  # Genotyping modules
+  create module -f modules/build/extension/feline/fivMaxLikelihoodPlacer.xml
+  create module -f modules/build/extension/feline/fivMaxLikelihoodGenotyper.xml

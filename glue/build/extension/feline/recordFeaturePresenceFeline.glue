@@ -1,7 +1,12 @@
 
+  # Feature coverage 
   module lentiFeaturePresenceRecorder 
-
-    record feature-presence AL_FIV --featureName whole_genome --descendentFeatures
-   
+    record feature-presence AL_TREE_FIV_Africa --featureName whole_genome --descendentFeatures
+    record feature-presence AL_TREE_FIV_Asia --featureName whole_genome --descendentFeatures
+    record feature-presence AL_TREE_FIV_Canada --featureName whole_genome --descendentFeatures
+    record feature-presence AL_TREE_FIV_GlobalFca --featureName whole_genome --descendentFeatures
+    record feature-presence AL_TREE_FIV_NA_A --featureName whole_genome --descendentFeatures
+    record feature-presence AL_TREE_FIV_NA_A --featureName whole_genome --descendentFeatures
+    record feature-presence AL_TREE_FIV_SA --featureName whole_genome --descendentFeatures    
     exit
 

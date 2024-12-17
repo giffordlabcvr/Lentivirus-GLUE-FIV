@@ -1,8 +1,9 @@
 
-  # Build species-level extension projects
-
-  # Feline lentiviruses
+  # Feline lentivirus project extension
   project lentivirus
+
+    # Create modules
+    run file glue/build/extension/feline/modulesFeline.glue
 
     # Import sources
     run file glue/build/extension/feline/sourcesFeline.glue
@@ -13,17 +14,14 @@
     # Extract and import isolate data for extension sequences
     run file glue/build/extension/feline/importIsolateDataFeline.glue
 
-	# Add extension set sequences constrained alignment tree
+	# Create the alignment tree for genotyping, rooted on feline viruses
     run file glue/build/extension/feline/alignmentTreeFivGenotyping.glue
 
-	# Import alignments
+	# Import unconstrained alignments
     run file glue/build/extension/feline/importUnconstrainedAlignments.glue
 
-    # Derive constrained genotyping alignment from unconstrained
+    # Derive constrained alignments from unconstrained
     run file glue/build/extension/feline/deriveConstrainedAlignments.glue
-    
-	# Record feature presence
-	#run file glue/build/extension/feline/recordFeaturePresenceFeline.glue
 
     # Import reference phylogeny
     run file glue/build/extension/feline/importGenotypingPhylogenyFeline.glue

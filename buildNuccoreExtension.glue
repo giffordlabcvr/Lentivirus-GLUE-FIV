@@ -1,0 +1,21 @@
+
+  # Import nuccore sequences
+  import source sources/virus/extension/feline/ncbi-nuccore-feline
+
+  # Link nuccore sequences to isolate data
+  run script glue/build/extension/feline/linkIsolateNuccoreSeqsFeline.js
+  
+  # Extract data from the XML files
+  delete module genbankXmlPopulatorFeline
+  create module -f modules/build/extension/feline/genbankXmlPopulatorFeline.xml
+  module genbankXmlPopulatorFeline populate -w "source.name = 'ncbi-nuccore-feline'"
+
+  # Genotype nuccore sequences
+  run script glue/build/extension/feline/doRaxmlGenotyping.js
+
+  # Add nuccore sequences to feline lentivirus alignment tree
+  run file glue/build/extension/feline/extendAlignmentTreeFiv.glue
+
+  # Record feature presence in constrained alignments
+  run file glue/build/extension/feline/recordFeaturePresenceFeline.glue
+
