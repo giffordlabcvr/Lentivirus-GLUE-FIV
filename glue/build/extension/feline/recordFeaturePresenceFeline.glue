@@ -6,7 +6,7 @@
     record feature-presence AL_TREE_FIV_Canada --featureName whole_genome --descendentFeatures
     record feature-presence AL_TREE_FIV_GlobalFca --featureName whole_genome --descendentFeatures
     record feature-presence AL_TREE_FIV_NA_A --featureName whole_genome --descendentFeatures
-    record feature-presence AL_TREE_FIV_NA_A --featureName whole_genome --descendentFeatures
+    record feature-presence AL_TREE_FIV_NA_B --featureName whole_genome --descendentFeatures
     record feature-presence AL_TREE_FIV_SA --featureName whole_genome --descendentFeatures    
     exit
 

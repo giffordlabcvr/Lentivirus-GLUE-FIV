@@ -11,6 +11,9 @@
     # Define extension references
     run file glue/build/extension/feline/referencesFeline.glue
 
+    # Add feature locations to genotype references
+    run file glue/build/extension/feline/explicitFeatureLocationsFeline.glue
+
     # Extract and import isolate data for extension sequences
     run file glue/build/extension/feline/importIsolateDataFeline.glue
 

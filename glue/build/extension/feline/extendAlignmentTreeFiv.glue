@@ -1,12 +1,13 @@
 alignment AL_TREE_Feline
  
     add member -w "species = 'FIV' and source.name = 'ncbi-nuccore-feline'"
-    demote member AL_TREE_FIV_GlobalFca --whereClause "sequence.genotype = 'Global Fca' and sequence.source.name = 'ncbi-nuccore-feline'"
+
+    demote member AL_TREE_FIV_GlobalFca --whereClause "sequence.genotype = 'GlobalFca' and sequence.source.name = 'ncbi-nuccore-feline'"
     demote member AL_TREE_FIV_Canada    --whereClause "sequence.genotype = 'Canada' and sequence.source.name = 'ncbi-nuccore-feline'"
     demote member AL_TREE_FIV_Africa    --whereClause "sequence.genotype = 'Africa' and sequence.source.name = 'ncbi-nuccore-feline'"
     demote member AL_TREE_FIV_Asia      --whereClause "sequence.genotype = 'Asia' and sequence.source.name = 'ncbi-nuccore-feline'"
-    demote member AL_TREE_FIV_SA        --whereClause "sequence.genotype = 'South America' and sequence.source.name = 'ncbi-nuccore-feline'"
-    demote member AL_TREE_FIV_NA_A      --whereClause "sequence.genotype = 'A' and sequence.source.name = 'ncbi-nuccore-feline'"
-    demote member AL_TREE_FIV_NA_B      --whereClause "sequence.genotype = 'B' and sequence.source.name = 'ncbi-nuccore-feline'"
+    demote member AL_TREE_FIV_SA        --whereClause "sequence.genotype = 'SA' and sequence.source.name = 'ncbi-nuccore-feline'"
+    demote member AL_TREE_FIV_NA_A      --whereClause "sequence.genotype = 'NA_A' and sequence.source.name = 'ncbi-nuccore-feline'"
+    demote member AL_TREE_FIV_NA_B      --whereClause "sequence.genotype = 'NA_B' and sequence.source.name = 'ncbi-nuccore-feline'"
 
-    exitå
+    exit

@@ -1,0 +1,168 @@
+# Define feature locations
+
+  reference REF_FIV_Africa_EU117991 
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 9898
+      exit
+
+    add feature-location 5LTR
+    feature-location 5LTR
+      add segment 1 398
+      exit
+
+    add feature-location gag
+    feature-location gag
+      add segment 705 2213
+      exit
+
+    add feature-location pol
+    feature-location pol
+      add segment 2018 5464
+      exit
+
+    add feature-location vif
+    feature-location vif
+      add segment 5461 6171
+      exit
+
+    add feature-location env
+    feature-location env
+      add segment 6601 9213
+      exit
+
+    add feature-location 3LTR
+    feature-location 3LTR
+      add segment 9501 9898
+      exit
+
+  exit
+
+  reference REF_FIV_Asia_AY713445 
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 9751
+      exit
+
+    add feature-location gag
+    feature-location gag
+      add segment 685 2181
+      exit
+
+    add feature-location pol
+    feature-location pol
+      add segment 1980 5432
+      exit
+
+    add feature-location vif
+    feature-location vif
+      add segment 5429 6187
+      exit
+
+    add feature-location env
+    feature-location env
+      add segment 6512 9103
+      exit
+
+  exit
+
+
+  reference REF_FIV_Canada_AF474246 
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 9470
+      exit
+
+    add feature-location gag
+    feature-location gag
+      add segment 634 1986
+      exit
+
+    add feature-location pol
+    feature-location pol
+      add segment 1857 5249
+      exit
+
+    add feature-location vif
+    feature-location vif
+      add segment 5242 5997
+      exit
+
+    add feature-location env
+    feature-location env
+      add segment 6272 8833
+      exit
+
+  exit
+
+
+  reference REF_FIV_NA_A_KF906143 
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 8030
+      exit
+
+    add feature-location gag
+    feature-location gag
+      add segment 1 1446
+      exit
+
+    add feature-location pol
+    feature-location pol
+      add segment 1311 4733
+      exit
+
+    add feature-location vif
+    feature-location vif
+      add segment 4690 5520
+      exit
+
+    add feature-location env
+    feature-location env
+      add segment 5523 8030
+      exit
+
+  exit
+
+
+  reference REF_FIV_NA_B_DQ192583 
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 9092
+      exit
+
+    add feature-location gag
+    feature-location gag
+      add segment 639 2024
+      exit
+
+    add feature-location pol
+    feature-location pol
+      add segment 1886 5323
+      exit
+
+    add feature-location vif
+    feature-location vif
+      add segment 5298 6008
+      exit
+
+    add feature-location env
+    feature-location env
+      add segment 6283 8715
+      exit
+
+  exit
+
+
+  reference REF_FIV_SA_AX139034
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 9464
+      exit
+
+  exit
