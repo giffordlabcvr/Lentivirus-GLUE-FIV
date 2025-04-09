@@ -26,8 +26,8 @@
     # Add nuccore sequences to feline lentivirus alignment tree
     run file glue/build/extension/feline/extendAlignmentTreeFiv.glue
 
-	# Derive constrained alignments
-	run file glue/build/extension/feline/deriveConstrainedAlignments.glue
+	# Compute alignment rows for nuccore sequences
+	run file glue/build/extension/feline/computeNuccoreAlignmentRows.glue
 
     # Record feature presence in constrained alignments
     run file glue/build/extension/feline/recordFeaturePresenceFeline.glue

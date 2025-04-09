@@ -158,11 +158,31 @@
   exit
 
 
-  reference REF_FIV_SA_AX139034
+  reference REF_FIV_SA_M59418
 
     add feature-location whole_genome
     feature-location whole_genome
-      add segment 1 9464
+      add segment 1 9471
+      exit
+
+    add feature-location gag
+    feature-location gag
+      add segment 634 1983
+      exit
+
+    add feature-location pol
+    feature-location pol
+      add segment 1875 5249
+      exit
+
+    add feature-location vif
+    feature-location vif
+      add segment 5242 5997
+      exit
+
+    add feature-location env
+    feature-location env
+      add segment 6272 8839
       exit
 
   exit

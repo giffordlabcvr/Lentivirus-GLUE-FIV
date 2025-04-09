@@ -19,7 +19,7 @@ alignment AL_TREE_Feline
     extract child AL_TREE_FIV_Asia --refName REF_FIV_Asia_AY713445
     demote member AL_TREE_FIV_Asia --whereClause "sequence.genotype = 'Asia'"
 
-    extract child AL_TREE_FIV_SA --refName REF_FIV_SA_AX139034
+    extract child AL_TREE_FIV_SA --refName REF_FIV_SA_M59418
     demote member AL_TREE_FIV_SA --whereClause "sequence.genotype = 'SA'"
 
     extract child AL_TREE_FIV_NA_A --refName REF_FIV_NA_A_KF906143

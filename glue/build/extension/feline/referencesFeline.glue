@@ -84,10 +84,10 @@ create reference REF_FIV_NA_B_KF906193    ncbi-refseqs-feline KF906193
 create reference REF_FIV_NA_B_KF906194    ncbi-refseqs-feline KF906194
 
 # Genotype South America
+create reference REF_FIV_SA_M59418      ncbi-refseqs-feline M59418
 create reference REF_FIV_SA_AX139034    ncbi-refseqs-feline AX139034
 create reference REF_FIV_SA_DD029017    ncbi-refseqs-feline DD029017
 create reference REF_FIV_SA_E43300      ncbi-refseqs-feline E43300
-create reference REF_FIV_SA_M59418      ncbi-refseqs-feline M59418
 create reference REF_FIV_SA_MF370550    ncbi-refseqs-feline MF370550
 create reference REF_FIV_SA_MW142019    ncbi-refseqs-feline MW142019
 create reference REF_FIV_SA_MW142020    ncbi-refseqs-feline MW142020
