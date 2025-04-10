@@ -1,4 +1,5 @@
 <textFilePopulator>
+
     <columnDelimiterRegex>\t</columnDelimiterRegex>
 
 	<textFileColumn>
@@ -10,6 +11,13 @@
 	<textFileColumn>
 		<header>genotype</header>
 		<property>genotype</property>
+		<nullRegex>-</nullRegex>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull>
+	</textFileColumn>
+
+	<textFileColumn>
+		<header>subtype</header>
+		<property>subtype</property>
 		<nullRegex>-</nullRegex>
 		<overwriteExistingNonNull>true</overwriteExistingNonNull>
 	</textFileColumn>
