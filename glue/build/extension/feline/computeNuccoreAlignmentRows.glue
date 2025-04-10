@@ -1,3 +1,4 @@
+compute alignment AL_TREE_Feline       lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
 
 compute alignment AL_TREE_FIV_Africa    lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
 compute alignment AL_TREE_FIV_Asia      lentiCompoundAligner -w "sequence.source.name = 'ncbi-nuccore-feline'"
